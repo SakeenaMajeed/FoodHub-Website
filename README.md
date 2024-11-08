@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+figma design ➡ https://www.figma.com/design/wMzfeYgr4FvLUv3RiGAFaj/Best-Food-Website-Mockup-Design-(Community)?node-id=0-1&t=2NWUo8hxGhP4iNwz-0
+
 First, run the development server:
 
 ```bash
